@@ -147,7 +147,7 @@ section.experience{
     flex-wrap: wrap;
 }
 
-.experiencie__box:nth-child(3) {
+.experiencie__box:nth-child(7) {
     flex-direction: row-reverse;
 }
 

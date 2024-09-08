@@ -1,6 +1,8 @@
 
 # Meu Portfólio Personalizado
 
+<img src="assets/img-projeto.png" alt="imagem_readme">
+
 Este projeto foi desenvolvido com o objetivo de aplicar os conhecimentos adquiridos por meio do curso da Alura e da Oracle Next One, visando enfrentar o desafio apresentado pelo CHALLENGE FRONT-END 2.
 
 ## Visão Geral
